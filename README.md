@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Filip</h1>
 <h3 align="center">A passionate frontend developer from Croatia</h3>
 
-- 🔭 I’m currently working on [Dalle- clone](https://dalle-clone-kec1.onrender.com/)
+- 🔭 I’m currently working on [Desaign ](https://www.desaign.tech/)
 
 - 📫 How to reach me **filip.djurkan@gmail.com**
 
